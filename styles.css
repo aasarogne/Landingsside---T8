@@ -1,0 +1,66 @@
+
+
+header{
+    display: flex; 
+    justify-content: center;
+    margin: 32px auto;
+    padding-top: 30px;
+    font-size: 1.34rem;
+    gap: 1.2rem
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    padding:0 200px;
+    max-width: 600px;
+    margin: 0 auto;
+
+}
+
+body{
+background-color:#E8EDE9;
+
+}
+
+.gruppebilde{
+width: 60%;
+min-width: 300px;
+}
+
+.mockups{
+display: flex;
+flex-direction: row;
+min-width: 200px;
+
+}
+
+.mockups img{
+height: 350px;
+display: flex;
+padding-top: 40px;
+padding-left: 50px;
+padding-right: 40px;
+
+
+}
+
+.apple{
+    height: 60px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.logo{
+    height: 85px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+p{
+    font-size: 1.5rem;
+}
+
+
